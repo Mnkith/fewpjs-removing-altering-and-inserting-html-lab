@@ -1,5 +1,5 @@
 # Creating and Inserting DOM Nodes
-
+ 
 ## Learning Goals
 
 1. Create DOM elements programmatically
